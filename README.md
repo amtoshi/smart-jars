@@ -1,3 +1,5 @@
+# Installation Guide: The app would run on iOS version 15 and you just have to test in your team provisioning profile. COmplete developed in Swift
+
 # smart-jars
 Smart Jars are deposit balances for Wise personal accounts which helps users save as they spend using Micro-deposits (like micro investing)  depositing a spare amount with every transaction to complete their budgeting goals for travel, buying something. They are a feature extension on Jars.
 
