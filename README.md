@@ -6,7 +6,7 @@ Smart Jars are deposit balances for Wise personal accounts which helps users sav
 Jars have been part of the Wise account for a while now, But currently they are just deposit balances with a name, currency and emoji. But wait till it becomes smart. The solution tries to re-introduce Jars as Smart jars which are enabled with Micro deposit feature.  It is targeted towards Wise user who spends using cards or makes transfers for everyday expense.
 
 
-*Lets take Joe.  Joe plans to travel to Turkey for new years. He would like to budget and save for the trip. 
+*Lets take Joe.  Joe plans to travel to Turkey for new years. He would like to budget and save for the trip . 
 He tries the smart Jar, The smart Jar asks joe what is he saving for, he mentions travel and then the onboarding page of Jar feature asks him what country, how many days, date of travel and is it a budget, medium or lavish trip . Based on these data points it calculates what is the cost of the for him to save. 
 smart jar then asks him whether he wants to __Save some when he Spends- this is micro deposit. Which calculates and saves a sum every time he spends.__ Like let’s say according to his goal, it should be 5 euros everyday? then the apps will try to have a sum extracted from his everyday purchases, transaction using Wise and at the end of the day will notify him of reaching his daily goal.* 
 
